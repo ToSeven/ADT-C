@@ -1,10 +1,10 @@
 /*
  ============================================================================
- Name        : ADT-C.c
+ Name        : ADT-C
  Author      : heng
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Version     :	1.0
+ Copyright   : ByOne
+ Description : ADT API
  ============================================================================
  */
 
